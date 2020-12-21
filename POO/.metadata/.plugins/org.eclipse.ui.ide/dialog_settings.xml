@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\T5_A2_Excepciones"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\T3_A3_Herencia_Metodos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\T3_A2_Herencia"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\ProyectoFinal"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\ProyectoFinal_0.0"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion18_Ejemplo_Lectura_Archivos_Ch"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion18_Ejemplo_Escritura_Archivos_Ch"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion17_zEjemplo_Archivos_Ch"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Proyecto Final 1°Sem x2"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\T6_A3_Archivos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\T6_A2_Temperaturas"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\xd\Sesion19_Lectura_Archivos_Scanner"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\xd\Sesion19_Lectura_Archivos_Por_Caracter"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion18_Ejemplo_Lectura_Archivos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion18_Ejemplo_Escritura_Archivos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Proyecto Final 1º Sem"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion17_zEjemplo_Archivos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion17_Ejemplo_Propagacion_Excepciones"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion16_Excepciones"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion15_zEjemplo_Interfaces"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion15_Ejemplo_Polimorfismo_Interfaces"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion14_Ejemplo_Polimorfismo_Clases_Abstractas"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion12_EjemploHerencia\Sesion12_EjemploHerencia"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion12_EjemploHerencia"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Ejemplo"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\ExParcial2_B"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion09_Ejemplo_Objetos_Atributos"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="380"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

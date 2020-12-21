@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\ExP4_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+ExP4_PinedoBerumenClaraRuby|1576014068591385000|C:\Users\Kura_2\Desktop\Programas_eclipse\ExP4_PinedoBerumenClaraRuby\ExP4_PinedoBerumenClaraRuby.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\ExP4_PinedoBerumenClaraRuby\ExP4_PinedoBerumenClaraRuby.py
+2=ExP4_PinedoBerumenClaraRuby
+-- END DICTIONARY
+-- START TREE 1
+6
+can|1|candidatos!1^12#1*19@
+dis|1|distritos!1^22#1*19@
+imp|1|impresion!1^14#5*18@
+por|2|porcientoCandidatos!1^65#5*18@porcientoDistritos!1^42#5*18@
+sum|1|sumaTotal!1^34#5*18@
+vot|2|votosDistritos!1^23#5*18@votosCandidatos!1^55#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

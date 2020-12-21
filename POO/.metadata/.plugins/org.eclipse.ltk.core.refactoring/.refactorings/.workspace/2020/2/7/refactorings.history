@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Sesion_4_Ejemplos_Metodos_Retorno_Valor&apos; to &apos;Sesion04_Ejemplos_Metodos_Retorno_Valor&apos;&#x0D;&#x0A;- Original element: &apos;Sesion_4_Ejemplos_Metodos_Retorno_Valor&apos;&#x0D;&#x0A;- Renamed element: &apos;Sesion_4_Ejemplos_Metodos_Retorno_Valor&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Sesion_4_Ejemplos_Metodos_Retorno_Valor&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Sesion_4_Ejemplos_Metodos_Retorno_Valor" name="Sesion04_Ejemplos_Metodos_Retorno_Valor" references="true" stamp="1581610840650" version="1.0"/>
+</session>

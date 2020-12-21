@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;T5_A4_PinedoBerumenClaraRuby&apos; to &apos;T5_A3_PinedoBerumenClaraRuby&apos;" description="Rename resource &apos;T5_A4_PinedoBerumenClaraRuby&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/T5_A4_PinedoBerumenClaraRuby" name="T5_A3_PinedoBerumenClaraRuby" stamp="1574900852213" updateReferences="true"/>
+</session>

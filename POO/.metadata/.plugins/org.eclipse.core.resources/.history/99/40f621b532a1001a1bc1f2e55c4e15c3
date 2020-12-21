@@ -1,0 +1,242 @@
+import java.io.*;
+import java.util.Arrays;
+import java.util.Random;
+import java.util.Scanner;
+
+interface Interfaz1 {
+	public String[] cargarPalabras() throws IOException;
+	public String elegirPalabras(String palabras[]);
+}
+
+
+class JuegoAhorcado implements Interfaz1{
+	private int numA = 0;
+	private String lenguaje = "";
+	
+	String letra;
+	String letrasIngresadas [] = new String [8];
+	String palabraSecreta;
+	
+	
+	public JuegoAhorcado() {}
+	public JuegoAhorcado(int numA, String lenguaje) {
+		super();
+		this.numA = numA;
+		this.lenguaje = lenguaje;
+	}
+
+	public int getNumA() {
+		return numA;
+	}
+	public void setNumA(int numA) {
+		this.numA = numA;
+	}
+	public String getLenguaje() {
+		return lenguaje;
+	}
+	public void setLenguaje(String lenguaje) {
+		this.lenguaje = lenguaje;
+	}
+
+//---------------------------------------------------------------------------------------------
+	public String[] cargarPalabras() throws IOException {
+		
+		File archivo = new File("./archivos/palabras.txt");
+		
+		FileReader fr = null;
+		BufferedReader br = null;
+		String linea = "";
+		
+		
+		String [] español = {};
+		String [] ingles = {};
+		
+		try {
+			fr = new FileReader(archivo);
+			br = new BufferedReader(fr);
+			
+			String[] partes = new String[2];
+			
+			while ((linea = br.readLine()) != null ) {
+				linea = br.readLine();
+			}
+			
+			partes = linea.split("/");
+			
+			español = partes[0].split(",");
+			ingles = partes[1].split(",");
+			
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}finally {
+			br.close();
+			fr.close();
+		}
+		
+		Random rnd = new Random();
+		
+		numA = rnd.nextInt(2);
+		if (numA == 1) {
+			return español;
+		}else if (numA==2) {
+			return ingles;
+		}else {
+			return null;
+		}
+			
+	}//cargarPalabras
+//--------------------------------------------------------------------------------------------------
+	
+	public String elegirPalabras(String[] palabras) {
+		Random rnd = new Random();
+		
+		String palabraAleatoria = palabras[rnd.nextInt(palabras.length)];
+		
+		if (numA == 1) {
+			lenguaje = "español";
+		}else if (numA == 2) {
+			lenguaje = "inglés";
+		}
+		
+		
+		return palabraAleatoria;
+	}//elegirPalabras
+//-------------------------------------------------------------------------------------------------
+	
+	public void inicioAhorcado(String palabraAleatoria ) {
+		Scanner ent = new Scanner(System.in);
+		
+		char palabraSecreta[] = new char [palabraAleatoria.length()];
+		
+		for (int i=0; i<palabraSecreta.length; i++) {
+			palabraSecreta[i]= '_';
+		}//for
+		
+		
+		
+		System.out.println("\nPor favor ingresa una letra: ");
+		letra = ent.next().toLowerCase().substring(0,1);
+		
+		
+		char caracter = letra.charAt(0);
+		byte caracteres = (byte)caracter;
+		
+		if(caracteres == -15 || (caracteres > 96 && caracteres<123)) {
+			
+		}else {
+			System.out.println("Caracter invalido!\n");
+		}
+		
+		
+	}//inicioAhorcado
+//-------------------------------------------------------------------------------------------------	
+	
+	public boolean seAdivinoPalabra (String palabraAleatoria, String letrasIngresadas[]) {
+		
+		byte cont = 0;
+		
+		for (int i=0; i<palabraAleatoria.length(); i++ ) {
+			String letra = palabraAleatoria.substring(i,i+1);
+	
+			for (int j=0; j<letrasIngresadas.length; j++) {
+				if(letrasIngresadas[j].equals(letra)) {
+					cont++;
+				}//if
+				
+			}//for2
+			
+		}//for1
+		
+		if (cont==palabraAleatoria.length()) {
+			return true;
+		} else {
+			return false;
+		}
+		
+		
+	}//seAdivinoLaPalabra
+//-----------------------------------------------------------------------------------------------------
+	
+	
+	public String obtenerPalabraAdivinada (String palabraAleatoria, String letrasIngresadas[]) {
+		char palabraSecreta[] = new char [palabraAleatoria.length()];
+		
+		for (int i=0; i<palabraSecreta.length; i++) {
+			palabraSecreta[i]= '_';
+		}//for
+		
+		letra = letra.toUpperCase();
+		char letra1 = letra.charAt(0);
+		
+		for (int i=0; i<palabraAleatoria.length(); i++) {
+			
+			if(letra1 == palabraAleatoria.charAt(i)) {
+				palabraSecreta[i] = letra1;		
+			}
+		}
+		
+		
+	return null; }//obtenerPalabraAdivinada
+//-----------------------------------------------------------------------------------------------------
+	
+	
+	public String obtenerLetrasDisponibles(String letrasIngresadas[]) {
+		String letrasDisponibles = "abcdefghijklmnñopqrstuvwxyz";
+		
+        for(int i=0; i<letrasDisponibles.length(); i++) {
+            
+            for(int j=0; j<letrasIngresadas.length; j++) {
+                if(letrasDisponibles.substring(i, i+1).equals(letrasIngresadas[j])){
+                    letrasDisponibles = letrasDisponibles.replace(letrasIngresadas[j], "-");
+                }
+            }   
+        }
+
+
+	return letrasDisponibles;}//obtenerLetrasDisponobles
+//--------------------------------------------------------------------------------------------------------
+	
+class Oportunidades {
+	
+}// class Oportunidades
+	
+}//class JuegoAhorcado
+
+public class Juego_2 extends JuegoAhorcado{
+
+	public static void main(String[] args) {
+		
+		String palabraAleatoria = "apple"; 
+		String letrasIngresadas [] = {"e", "i", "k", "p", "r", "s"};
+		
+		String palabraSecreta = palabraAleatoria;
+		
+		for (int i=0; i<palabraSecreta.length(); i++) {
+			palabraSecreta = palabraSecreta.replace(palabraSecreta.substring(i, i+1), "_ ") ;
+		}
+		
+		System.out.println("Palabra secreta: "+ palabraSecreta);
+		
+		for(int i=0; i<letrasIngresadas.length; i++) {
+			String letra = letrasIngresadas[i];
+            
+            for(int j=0; j<palabraAleatoria.length(); j++) {
+                if(palabraAleatoria.substring(i, i+1).equals(letrasIngresadas[j])){
+                	
+                	palabraSecreta = palabraSecreta.replace("_",letrasIngresadas[j]);
+                	
+  
+                }
+                
+            }   
+        }
+
+		
+		System.out.println("palabra: "+ palabraSecreta);
+	
+
+	}
+
+}

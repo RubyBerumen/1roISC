@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\POO\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion23.2_EjemploEncapsulamiento\com.python.pydev.analysis\v2_indexcache
+Ejemplo_Encapsulamiento|1590689917990613000|C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion23.2_EjemploEncapsulamiento\src\Ejemplo_Encapsulamiento.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+3=Auto
+5=Auto.detPrecio
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion23.2_EjemploEncapsulamiento\src\Ejemplo_Encapsulamiento.py
+2=Ejemplo_Encapsulamiento
+4=Auto.__init__
+-- END DICTIONARY
+-- START TREE 1
+2
+a1|1|a1!1^27#1*19@
+aut|1|Auto!1^7#7*17@
+-- END TREE
+-- START TREE 2
+6
+__i|1|__init__!3&1^10#9*18@
+__p|2|__precio!4&1^13#9*19@__precio!5&1^19#9*19@
+__s|1|__str__!3&1^22#9*18@
+det|1|detPrecio!3&1^18#9*18@
+get|1|getPrecio!3&1^16#9*18@
+mar|1|marca!4&1^11#9*19@
+-- END TREE

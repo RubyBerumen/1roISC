@@ -1,0 +1,37 @@
+1
+1.5
+true
+&
+Magia magia
+1
+1.5
+true
+&
+Magia magia
+Alumno@15db9742
+1
+1.5
+true
+&
+Magia magia
+Alumno@15db9742
+1
+1.5
+true
+&
+Magia magia
+Alumno [numControl=1, nombre=1, primerAp=1, segundoAp=1, edad=1, semestre=1, carrera=1]
+1
+1.5
+true
+&
+Magia magia
+Alumno [numControl=1, nombre=1, primerAp=1, segundoAp=1, edad=1, semestre=1, carrera=1]
+1-1
+1
+1.5
+true
+&
+Magia magia
+Alumno [numControl=1, nombre=1, primerAp=1, segundoAp=1, edad=1, semestre=1, carrera=1]
+1-1

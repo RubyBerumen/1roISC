@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Sesion15_zEjemplo_Interfaces&apos; to &apos;Sesion15_fEjemplo_Interfaces&apos;&#x0D;&#x0A;- Original element: &apos;Sesion15_zEjemplo_Interfaces&apos;&#x0D;&#x0A;- Renamed element: &apos;Sesion15_zEjemplo_Interfaces&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Sesion15_zEjemplo_Interfaces&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Sesion15_zEjemplo_Interfaces" name="Sesion15_fEjemplo_Interfaces" references="true" stamp="1588379877863" version="1.0"/>
+</session>

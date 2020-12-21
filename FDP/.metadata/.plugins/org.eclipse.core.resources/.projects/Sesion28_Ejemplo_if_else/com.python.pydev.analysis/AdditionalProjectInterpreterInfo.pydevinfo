@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion28_Ejemplo_if_else\com.python.pydev.analysis\v2_indexcache
+Ejemplo_IF_ELSE|1574819109506393000|C:\Users\Kura_2\Desktop\Programas_eclipse\Sesion28_Ejemplo_if_else\Ejemplo_IF_ELSE.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\Sesion28_Ejemplo_if_else\Ejemplo_IF_ELSE.py
+2=Ejemplo_IF_ELSE
+-- END DICTIONARY
+-- START TREE 1
+8
+a|1|a!1^27#1*19@
+b|1|b!1^28#1*19@
+cad|2|cadena1!1^59#1*19@cadena2!1^60#1*19@
+cal|1|calificacion!1^102#1*19@
+sen|1|sensor!1^75#1*19@
+tar|1|tarjetaDescuento!1^46#1*19@
+tem|1|temp!1^76#1*19@
+tot|1|totalVenta!1^45#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

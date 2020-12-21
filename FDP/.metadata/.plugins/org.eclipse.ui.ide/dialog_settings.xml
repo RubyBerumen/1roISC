@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Kura_2\Downloads\RubyBerumen-shellsortpython-cefd50308e07"/>
+		<item value="C:\Users\Kura_2\Downloads\ShellsortJava-main"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\SegOp_PinedoBerumenClaraRuby"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\ejemplos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Sesion28_Ciclos"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Actividad02_VectoresUnidimencionales"/>
+		<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Asesoria_Examen_Parcial_2"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="380"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Examen1"/>
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Session04_Ejemplo_Lectura_BufferedReader"/>
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse"/>
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Sesion02_Ejemplo_Matematicas"/>
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Sesion03_Ejemplo_Lectura_Teclado"/>
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\Sesion03_Ejercicios_Lectura_Aritmetica"/>
+			<item value="C:\Users\Kura_2\Desktop\Programas_eclipse\T2_A2_PinedoBerumenClaraRuby"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.python.pydev.PythonCategory"/>
+		</list>
+	</section>
+</section>

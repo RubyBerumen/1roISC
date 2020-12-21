@@ -1,0 +1,35 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\T5_A3_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+Ejercicio04_°F_a_°C|1574902152460551000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio04_°F_a_°C.py
+Ejercicio02_Par_o_Impar|1574901212558332000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio02_Par_o_Impar.py
+Ejercicio06_Salario|1574989552136416000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio06_Salario.py
+Ejercicio10_Número_mayor|1574990895861222000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio10_Número_mayor.py
+Ejercicio08_°C_a_°F_o_°K|1574990896300175000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio08_°C_a_°F_o_°K.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+4=Ejercicio04_°F_a_°C
+3=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio04_°F_a_°C.py
+5=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio08_°C_a_°F_o_°K.py
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio06_Salario.py
+7=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio10_Número_mayor.py
+9=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A3_PinedoBerumenClaraRuby\Ejercicio02_Par_o_Impar.py
+10=Ejercicio02_Par_o_Impar
+2=Ejercicio06_Salario
+8=Ejercicio10_Número_mayor
+6=Ejercicio08_°C_a_°F_o_°K
+-- END DICTIONARY
+-- START TREE 1
+7
+dia|2|diasExtra!1^10#1*19@diasTrabajados!1^8#1*19@
+gra|5|gradosC!3^11#1*35@gradosC!5^9#1*51@gradosF!3^9#1*35@gradosK!5^16#1*51@gradosF!5^15#1*51@
+hor|1|horasTrabajadas!1^11#1*19@
+num|4|num2!7^11#1*67@num1!7^10#1*67@num!9^8#1*83@num3!7^12#1*67@
+opc|1|opcion!5^13#1*51@
+pag|1|pagoPorHora!1^9#1*19@
+sal|2|salarioBruto!1^18#1*19@salarioNeto!1^21#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

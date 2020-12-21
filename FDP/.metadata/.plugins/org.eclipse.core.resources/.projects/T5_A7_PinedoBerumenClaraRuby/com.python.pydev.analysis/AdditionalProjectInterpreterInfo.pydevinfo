@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\T5_A7_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+Ejercicio01_Temperaturas|1575518451140145000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A7_PinedoBerumenClaraRuby\Ejercicio01_Temperaturas.py
+Ejercicio02_Temperaturas|1575610411454670000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A7_PinedoBerumenClaraRuby\Ejercicio02_Temperaturas.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=Ejercicio01_Temperaturas
+4=Ejercicio02_Temperaturas
+3=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A7_PinedoBerumenClaraRuby\Ejercicio02_Temperaturas.py
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A7_PinedoBerumenClaraRuby\Ejercicio01_Temperaturas.py
+-- END DICTIONARY
+-- START TREE 1
+8
+can|2|cantidad!1^10#1*19@cantidad!3^8#1*35@
+cen|1|cen!3^11#1*35@
+far|1|far!3^10#1*35@
+let|1|letra!3^20#5*35@
+num|1|numero!3^21#5*35@
+pro|1|promedio!1^19#1*19@
+sum|3|sumafar!3^35#1*35@sumacen!3^29#1*35@sumatem!1^12#1*19@
+tem|3|temperaturas!1^14#1*19@tem!3^19#5*35@temperaturas!3^12#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

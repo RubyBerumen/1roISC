@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Sesion10_Ejemplo_IF_ELSE_ANIDADOS/src"/>
+	<classpathentry kind="output" path="Sesion10_Ejemplo_IF_ELSE_ANIDADOS/bin"/>
+</classpath>

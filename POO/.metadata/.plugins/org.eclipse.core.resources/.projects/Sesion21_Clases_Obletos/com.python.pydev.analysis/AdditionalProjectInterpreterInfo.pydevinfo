@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\POO\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion21_Clases_Obletos\com.python.pydev.analysis\v2_indexcache
+ClasesObjetos|1590075667611468000|C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion21_Clases_Obletos\src\ClasesObjetos.py
+ClasesObjetos1|1590681274151234000|C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion21_Clases_Obletos\src\ClasesObjetos1.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion21_Clases_Obletos\src\ClasesObjetos1.py
+3=Alumno
+4=Alumno.__init__
+2=ClasesObjetos1
+-- END DICTIONARY
+-- START TREE 1
+7
+a1|1|a1!1^82#1*19@
+a2|1|a2!1^94#1*19@
+alu|1|Alumno!1^31#7*17@
+aut|1|Auto!1^10#7*17@
+cre|1|crearGrupo!1^28#5*18@
+onc|1|OnClickListener!1^23#7*17@
+per|3|perrito1!1^15#1*19@Perro!1^7#7*17@perrito2!1^18#1*19@
+-- END TREE
+-- START TREE 2
+11
+__d|1|__del__!3&1^56#9*18@
+__i|1|__init__!3&1^46#9*18@
+car|2|carrera!3&1^43#5*19@carrera!4&1^53#9*19@
+cre|1|crearGrupo!3&1^64#9*18@
+eda|2|edad!3&1^41#5*19@edad!4&1^51#9*19@
+mos|1|mostrarAtributos!3&1^68#9*18@
+nom|2|nombre!3&1^38#5*19@nombre!4&1^48#9*19@
+num|2|numControl!3&1^37#5*19@numControl!4&1^47#9*19@
+pri|2|primerAp!3&1^39#5*19@primerAp!4&1^49#9*19@
+seg|2|segundoAP!3&1^40#5*19@segundoAp!4&1^50#9*19@
+sem|2|semestre!3&1^42#5*19@semestre!4&1^52#9*19@
+-- END TREE

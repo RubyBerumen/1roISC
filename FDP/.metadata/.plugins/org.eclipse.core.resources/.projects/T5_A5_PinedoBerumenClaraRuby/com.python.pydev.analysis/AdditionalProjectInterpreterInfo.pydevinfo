@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\T5_A5_PinedoBerumenClaraRuby\com.python.pydev.analysis\v2_indexcache
+Ejercicio08_Vocales_Consonantes|1575510295718882000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio08_Vocales_Consonantes.py
+Ejercicio02_Divisores|1575505936036008000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio02_Divisores.py
+Ejercicio04_Nombre|1575506590443969000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio04_Nombre.py
+Ejercicio06_Figura|1575507449596827000|C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio06_Figura.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio08_Vocales_Consonantes.py
+5=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio04_Nombre.py
+4=Ejercicio08_Vocales_Consonantes
+7=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio02_Divisores.py
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\T5_A5_PinedoBerumenClaraRuby\Ejercicio06_Figura.py
+8=Ejercicio02_Divisores
+2=Ejercicio06_Figura
+6=Ejercicio04_Nombre
+-- END DICTIONARY
+-- START TREE 1
+6
+alt|1|altura!1^8#1*19@
+con|1|consonantes!3^17#1*35@
+nom|1|nombre!5^9#1*51@
+num|1|numero!7^8#1*67@
+pal|1|palabra!3^9#1*35@
+voc|1|vocales!3^11#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

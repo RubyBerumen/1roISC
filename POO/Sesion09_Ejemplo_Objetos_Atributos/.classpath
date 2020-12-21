@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Sesion09_Ejemplo_Objetos_Atributos/src"/>
+	<classpathentry kind="output" path="Sesion09_Ejemplo_Objetos_Atributos/bin"/>
+</classpath>

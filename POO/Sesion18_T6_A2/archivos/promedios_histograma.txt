@@ -1,0 +1,5 @@
+Promedio de la semana 1: 29° *****************************
+Promedio de la semana 2: 26° **************************
+Promedio de la semana 3: 22° ***********************
+Promedio de la semana 4: 25° **************************
+Promedio de la semana 5: 25° **************************

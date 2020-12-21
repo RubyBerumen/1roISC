@@ -1,0 +1,34 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\Kura_2\Desktop\Programas_eclipse\POO\.metadata\.plugins\org.eclipse.core.resources\.projects\Sesion23_Ejemplo_Constructores\com.python.pydev.analysis\v2_indexcache
+EjemploConstructores|1590689905062768000|C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion23_Ejemplo_Constructores\src\EjemploConstructores.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\Kura_2\Desktop\Programas_eclipse\POO\Sesion23_Ejemplo_Constructores\src\EjemploConstructores.py
+2=EjemploConstructores
+3=Alumno
+4=Alumno.__init__
+-- END DICTIONARY
+-- START TREE 1
+6
+a1|1|a1!1^34#1*19@
+a2|1|a2!1^37#1*19@
+a3|1|a3!1^40#1*19@
+a4|1|a4!1^43#1*19@
+a5|1|a5!1^46#1*19@
+alu|1|Alumno!1^6#7*17@
+-- END TREE
+-- START TREE 2
+10
+__i|1|__init__!3&1^11#9*18@
+cal|1|calificaciones!4&1^20#9*19@
+car|1|carrera!4&1^19#9*19@
+eda|1|edad!4&1^17#9*19@
+mos|1|mostrarAtributos!3&1^23#9*18@
+nom|1|nombre!4&1^14#9*19@
+num|1|numControl!4&1^13#9*19@
+pri|1|primerAp!4&1^15#9*19@
+seg|1|segundAp!4&1^16#9*19@
+sem|1|semestre!4&1^18#9*19@
+-- END TREE
